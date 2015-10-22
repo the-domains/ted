@@ -1,0 +1,23 @@
+name: Ted
+favicon: null
+layout_spectrum: 0.3506969381123781
+typography_spectrum: 0.6237933516968042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.010693718679249287
+  lightness: 0.3506354074925184
+  saturation: 0.42807539948262274
+  rhythmicContrast: 0.5539232795126736
+purpose: []
