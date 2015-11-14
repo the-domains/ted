@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ted Regklis]]></title>
+        <description><![CDATA[Ted Regklis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 Nov 2015 11:13:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discography]]></title>
+            <description><![CDATA[<article><h1>Discography</h1><p>Discography . Personal Releases iTunes | Google Play iTunes | Google Play iTunes | Google Play . Mockbirth iTunes | Google Play Bandcamp iTunes | Google Play iTunes | Google Play iTunes | Google Play</p><img src="https://f1.bcbits.com/img/a1799322918_16.jpg"></article>]]></description>
+            <link>http://tedregklis.com/discography</link>
+            <guid isPermaLink="false">02b80461-f2b8-4793-b4e5-29b162189315</guid>
+            <pubDate>Sat, 14 Nov 2015 11:13:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
